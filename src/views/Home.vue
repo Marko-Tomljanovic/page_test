@@ -1,45 +1,10 @@
 <template>
   <b-container>
   <b-row align-center="center">
-    <job-card></job-card>
-    <job-card></job-card>
-    <job-card></job-card>
-    <job-card></job-card>
+    <job-card v-for="job in jobs" :key="job.id"></job-card>
+    
 
-    <!-- <b-col md="3">
-      <b-card title="This is a card" img-src="http://picsum.photos/400/300/?image=25" img-top style="max-width:20rem" class="mb-2">
-        <b-card-text>
-        Nesto tekt kao samo da proba ovo ono</b-card-text>
-        <b-button variant="primary">Apply</b-button>
-      </b-card>
-    </b-col>
-
-
-    <b-col md="3">
-      <b-card title="This is a card" img-src="http://picsum.photos/400/300/?image=25" img-top style="max-width:20rem" class="mb-2">
-        <b-card-text>
-        Nesto tekt kao samo da proba ovo ono</b-card-text>
-        <b-button variant="primary">Apply</b-button>
-      </b-card>
-    </b-col>
-
-
-    <b-col md="3">
-      <b-card title="This is a card" img-src="http://picsum.photos/400/300/?image=25" img-top style="max-width:20rem" class="mb-2">
-        <b-card-text>
-        Nesto tekt kao samo da proba ovo ono</b-card-text>
-        <b-button variant="primary">Apply</b-button>
-      </b-card>
-    </b-col>
-
-
-    <b-col md="3">
-      <b-card title="This is a card" img-src="http://picsum.photos/400/300/?image=25" img-top style="max-width:20rem" class="mb-2">
-        <b-card-text>
-        Nesto tekt kao samo da proba ovo ono</b-card-text>
-        <b-button variant="primary">Apply</b-button>
-      </b-card>
-    </b-col> -->
+    
     
   </b-row>
 </b-container>
@@ -50,7 +15,25 @@
 import JobCard from "@/components/JobCard.vue";
 
 export default {
-  name: 'Home',
-  components: {"job-card": JobCard }
-}
+  name: 'home',
+  components: {"job-card": JobCard },
+  mounted(){
+    this.fetchData();
+  },
+  data(){
+    return {
+      jobs: []
+
+    };
+  },
+  methods:{
+    async fetchData(){
+      const res = await fetch("jobs.json");
+      const val = await res.json();
+      this.jobs = val; 
+      console.log(val);
+
+    }
+  }
+};
 </script>
