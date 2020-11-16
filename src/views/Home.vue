@@ -1,7 +1,7 @@
 <template>
   <b-container>
   <b-row align-center="center">
-    <job-card v-for="job in jobs" :key="job.id"></job-card>
+    <job-card v-for="job in jobs" :key="job.id" :name="job.name"></job-card>
     
 
     
