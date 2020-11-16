@@ -1,12 +1,12 @@
 <template>
 <div>
-  <b-navbar toggleable="lg" type="dark" variant="info">
-    <b-navbar-brand href="#">NavBar</b-navbar-brand>
+  <b-navbar toggleable="lg" type="dark" variant="primary" >
+    <b-navbar-brand style="font-size: 26px" href="#">NavBar</b-navbar-brand>
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
     <b-collapse id="nav-collapse" is-nav>
-      <b-navbar-nav>
+      <b-navbar-nav style="font-size: 20px">
         <b-nav-item to="/">Home</b-nav-item>
         <b-nav-item to="/features">Features</b-nav-item>
         <b-nav-item to="/education">Education</b-nav-item>
