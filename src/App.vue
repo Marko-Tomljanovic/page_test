@@ -1,5 +1,5 @@
 <template>
-  <div style="background: #F0F8FF"> 
+  <div style="background-color: #E6E6FA"> 
     
       <top-header></top-header>
       <!-- <router-link to="/">Home</router-link> |
@@ -20,5 +20,6 @@ export default {
   }
 }
 </script>
+
 
 

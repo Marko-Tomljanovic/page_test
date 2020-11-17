@@ -1,10 +1,6 @@
 <template>
-
-
 <div class="container">
     <div class="main-body">
-    
-         
           <!-- /Breadcrumb -->
     
           <div class="row gutters-sm">
@@ -74,7 +70,7 @@
                       <h6 class="mb-0">Phone</h6>
                     </div>
                     <div class="col-sm-9 text-secondary">
-                      (385) 098 9246244
+                      (+385) 098 9246244
                     </div>
                   </div>
                   <hr>
@@ -160,12 +156,3 @@
 
 </template>
 
-
-
-
-
-<style>
-  fffttt {
-  background: #dd5e89;
-  }
-</style>
