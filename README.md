@@ -22,3 +22,9 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Netlify deploy site
+```
+https://eager-engelbart-dcc8b4.netlify.app
+```
