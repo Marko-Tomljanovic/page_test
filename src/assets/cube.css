@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    height: 100vh;
+    display: grid;
+    background: #000;
+  }
+  .board {
+    margin: auto;
+    height: 50px;
+    width: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+  }
+  .square {
+    color: red;
+      
+  }
+ 
+  .square:nth-child(odd) {
+    background: #306b8e;
+    z-index: 1;
+    position: relative;
+  }
+  
+  .square:nth-child(5n + 1) {
+    animation: rotate linear 5s infinite;
+  }
+  .square:nth-child(5n + 2) {
+    animation: rotate linear 5s infinite;
+    animation-delay: 0.25s;
+  }
+  .square:nth-child(5n + 3) {
+    animation: rotate linear 5s infinite;
+    animation-delay: 0.5s;
+  }
+  .square:nth-child(5n + 4) {
+    animation: rotate linear 5s infinite;
+    animation-delay: 0.75s;
+  }
+  .square:nth-child(5n + 5) {
+    animation: rotate linear 5s infinite;
+    animation-delay: 1s;
+  }
+  
+  @keyframes rotate {
+    5% {
+      transform: rotate(45deg);
+    }
+    50% {
+      transform: rotate(45deg);
+    }
+    60% {
+      transform: rotate(0);
+    }
+  }
+  
