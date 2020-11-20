@@ -11,8 +11,10 @@
                     <img src="@/assets/Image 2020-10-28 at 19.46.29.jpeg" alt="Admin" class="rounded-circle" width="150">
                     <div class="mt-3">
                       <h4>Marko Tomljanović</h4>
-                      <p class="text-secondary mb-1">Full Stack Developer</p>
-                      <p class="text-muted font-size-sm">Bay Area, San Francisco, CA</p>
+                      <p class="text-secondary mb-1">...............</p>
+                      <!-- Full Stack Developer -->
+                      <p class="text-muted font-size-sm">...............</p>
+                      <!-- Bay Area, San Francisco, CA -->
                       <button  class="btn btn-primary"><a href="www.google.com"></a> Follow</button>
                       <button class="btn btn-outline-primary">Message</button>
                     </div>
