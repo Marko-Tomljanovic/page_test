@@ -17,11 +17,8 @@ import Bootom from '@/components/Bootom.vue';
 export default {
   name: 'app',
   components:{
-    
     'top-header': TopHeader,
     'bootom': Bootom
-
-
   }
 }
 </script>
