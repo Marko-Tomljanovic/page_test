@@ -10,11 +10,9 @@
                     <img src="@/assets/Image 2020-10-28 at 19.46.29.jpeg" alt="Admin" class="rounded-circle" width="150">
                     <div class="mt-3">
                       <h4>Marko Tomljanović</h4>
-                      <p class="text-secondary mb-1">Front-end developer in the learning process</p>
-                      <p class="text-muted font-size-sm">Folow mw on LinkedIn</p>
-                      <!-- Bay Area, San Francisco, CA -->
-                      <a class="btn btn-primary" href="" target="blank_page">Follow</a>
-                      <a class="btn btn-outline-primary" href="mailto:markot@windowslive.com" target="blank_page">Massage</a>
+                      <p class="text-secondary mb-1">Front-end developer in learning process</p>
+                      <p class="text-muted font-size-sm">Send me E-mail</p>
+                      <a class="btn" href="mailto:markot@windowslive.com" target="blank_page" style="width:200px; background-color: #2677a7; color:#ffffff">Massage</a>
                     </div>
                   </div>
                 </div>
@@ -81,7 +79,7 @@
                       <h6 class="mb-0">Faculty</h6>
                     </div>
                     <div class="col-sm-9 text-secondary">
-                      Facultiy of Informatic, Pula
+                      Facultiy of Informatics, Pula
                     </div>
                   </div>
                   <hr>

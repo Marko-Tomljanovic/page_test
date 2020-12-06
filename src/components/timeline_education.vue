@@ -39,7 +39,6 @@
                         </p>
                     </div>
                 </div>
-            
                   <div class="timeline"> <br><br><br><br><br><br><br><br><br><br><br>
                 <div class=""><span class="year">Today</span></div></div>
             </div>
