@@ -156,3 +156,18 @@
     </div>
 
 </template>
+
+
+<style scoped>
+ .card.selected {
+    color: #6a6456;
+  }
+ .card {
+    /* the other rules */
+    transition: height 0.4s, box-shadow 0.3s;
+  }
+.card:hover {
+    height: 410px;
+    box-shadow: 20px 20px 40px 0px rgba(0,0,0,0.5);
+  }
+</style>

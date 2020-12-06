@@ -4,7 +4,9 @@
       <top-header></top-header><br>
       <!-- <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> -->
+      <transition name="fade">
         <router-view/><br>
+      </transition>
         <bootom></bootom>
   </div>
 </template>
@@ -22,6 +24,18 @@ export default {
   }
 }
 </script>
+
+
+
+<style scoped>
+.fade-enter-active, .fade-leave-active {
+  transition: opacity 0.5s ease;
+}
+
+.fade-enter-from, .fade-leave-to {
+  opacity: 0;
+}
+</style>
 
 
 
