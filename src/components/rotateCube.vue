@@ -28,6 +28,6 @@
 </div>
 </template>
 
-<style>
+<style scoped>
   @import './../assets/cube.css';
 </style>

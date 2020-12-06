@@ -1,5 +1,5 @@
 <template>
-  <div style="background-color: #E6E6FA"> 
+  <div> 
     
       <top-header></top-header><br>
       <!-- <router-link to="/">Home</router-link> |
@@ -27,7 +27,10 @@ export default {
 
 
 
-<style scoped>
+<style>
+body{
+  background-color: #2677a7;
+}
 .fade-enter-active, .fade-leave-active {
   transition: opacity 0.5s ease;
 }
@@ -35,6 +38,11 @@ export default {
 .fade-enter-from, .fade-leave-to {
   opacity: 0;
 }
+.mojstil{
+  color: #ffffff;
+  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+}
+
 </style>
 
 

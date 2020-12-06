@@ -4,18 +4,17 @@
           <!-- /Breadcrumb -->
           <div class="row gutters-sm">
             <div class="col-md-4 mb-3 ">
-              <div class="card" style="background-color: #F0E68C">
+              <div class="card">
                 <div class="card-body">
                   <div class="d-flex flex-column align-items-center text-center">
                     <img src="@/assets/Image 2020-10-28 at 19.46.29.jpeg" alt="Admin" class="rounded-circle" width="150">
                     <div class="mt-3">
                       <h4>Marko Tomljanović</h4>
-                      <p class="text-secondary mb-1">Student 2 godine diplomskog studija informatike</p>
-                      <!-- Full Stack Developer -->
-                      <p class="text-muted font-size-sm">...............</p>
+                      <p class="text-secondary mb-1">Front-end developer in the learning process</p>
+                      <p class="text-muted font-size-sm">Folow mw on LinkedIn</p>
                       <!-- Bay Area, San Francisco, CA -->
-                      <button  class="btn btn-primary"><a href="www.google.com"></a> Follow</button>
-                      <button class="btn btn-outline-primary">Message</button>
+                      <a class="btn btn-primary" href="" target="blank_page">Follow</a>
+                      <a class="btn btn-outline-primary" href="mailto:markot@windowslive.com" target="blank_page">Massage</a>
                     </div>
                   </div>
                 </div>
@@ -39,7 +38,9 @@
                     
                   </li></a><a href="https://www.facebook.com/cubus1/" target="_blank">
                   <li class="list-group-item d-flex justify-content-between align-items-center flex-wrap">
-                    <h6 class="mb-0 mx-auto"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-facebook mr-2 icon-inline text-primary"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>Facebook</h6>
+                    <h6 class="mb-0 mx-auto"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-facebook mr-2 icon-inline text-primary"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>Facebook 
+                    
+                    </h6>
                     
                   </li></a>
                 </ul>
@@ -68,7 +69,7 @@
                   <hr>
                   <div class="row">
                     <div class="col-sm-3">
-                      <h6 class="mb-0">Phone</h6>
+                      <h6 class="mb-0">Mobile</h6>
                     </div>
                     <div class="col-sm-9 text-secondary">
                       (+385) 098 9246244
@@ -77,10 +78,10 @@
                   <hr>
                   <div class="row">
                     <div class="col-sm-3">
-                      <h6 class="mb-0">Mobile</h6>
+                      <h6 class="mb-0">Faculty</h6>
                     </div>
                     <div class="col-sm-9 text-secondary">
-                      (320) 380-4539
+                      Facultiy of Informatic, Pula
                     </div>
                   </div>
                   <hr>
@@ -159,15 +160,10 @@
 
 
 <style scoped>
- .card.selected {
-    color: #6a6456;
-  }
  .card {
-    /* the other rules */
-    transition: height 0.4s, box-shadow 0.3s;
+    transition: box-shadow 0.3s;
   }
 .card:hover {
-    height: 410px;
-    box-shadow: 20px 20px 40px 0px rgba(0,0,0,0.5);
+    box-shadow: 25px 25px 45px 0px rgba(0,0,0,0.5);
   }
 </style>

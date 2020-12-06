@@ -22,7 +22,7 @@
   }
  
   .square:nth-child(odd) {
-    background: #306b8e;
+    background: #ffffff;
     z-index: 1;
     position: relative;
   }
@@ -49,7 +49,7 @@
   
   @keyframes rotate {
     5% {
-      transform: rotate(45deg);
+      transform: rotate(300deg); /* 45 */
     }
     50% {
       transform: rotate(45deg);
@@ -59,3 +59,4 @@
     }
   }
   
+ 
