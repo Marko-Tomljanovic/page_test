@@ -6,7 +6,7 @@
       <router-link to="/about">About</router-link> -->
       <transition name="fade">
         <router-view/><br>
-      </transition>
+      </transition><br>
         <bootom></bootom>
   </div>
 </template>
