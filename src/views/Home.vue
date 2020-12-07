@@ -102,7 +102,7 @@
                     <div class="col-sm-5">
                       <h6 class="mb-0">Languages</h6>
                     </div>
-                    <div class="col-sm-7 text-secondary" style="padding-left:0px; background-color: pink">
+                    <div class="col-sm-7 text-secondary" style="padding-left:0px;">
                       English
                     </div>
                   </div>
@@ -110,7 +110,7 @@
                     <div class="col-sm-5">
                       <h6 class="mb-0">Programming</h6>
                     </div>
-                    <div class="col-sm-7 text-secondary" style="padding-left:0px; background-color: pink">
+                    <div class="col-sm-7 text-secondary" style="padding-left:0px;">
                       HTML, Javascript, SQL, CSS, C++
                     </div>
                   </div>
@@ -118,7 +118,7 @@
                     <div class="col-sm-5">
                       <h6 class="mb-0">Other</h6>
                     </div>
-                    <div class="col-sm-7 text-secondary" style="padding-left:0px; background-color: pink">
+                    <div class="col-sm-7 text-secondary" style="padding-left:0px;">
                       AutoCad, Fusion 360,Figma, Adobe Premiere Pro and Photoshop&Lightroom
                     </div>
                   </div>
