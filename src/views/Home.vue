@@ -119,7 +119,7 @@
                       <h6 class="mb-0">Other</h6>
                     </div>
                     <div class="col-sm-7 text-secondary" style="padding-left:0px;">
-                      AutoCad, Fusion 360,Figma, Adobe Premiere Pro and Photoshop&Lightroom
+                      Figma, AutoCad, Adobe Premiere Pro and Photoshop&Lightroom, Fusion 360 
                     </div>
                   </div>
                   
