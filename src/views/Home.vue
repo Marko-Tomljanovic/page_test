@@ -79,7 +79,7 @@
                       <h6 class="mb-0">Faculty</h6>
                     </div>
                     <div class="col-sm-9 text-secondary">
-                      Facultiy of Informatics, Pula
+                      Faculty of Electrical Engineering, Osijek & Facultiy of Informatics, Pula
                     </div>
                   </div>
                   <hr>
@@ -114,10 +114,7 @@
                       <div class="progress mb-3" style="height: 9px">
                         <div class="progress-bar bg-primary" role="progressbar" style="width: 10%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
                       </div>
-                      <small>Backend API</small>
-                      <div class="progress mb-3" style="height: 9px">
-                        <div class="progress-bar bg-primary" role="progressbar" style="width: 66%" aria-valuenow="66" aria-valuemin="0" aria-valuemax="100"></div>
-                      </div>
+                      
                     </div>
                   </div>
                 </div>
@@ -155,6 +152,8 @@
     </div>
 
 </template>
+
+
 
 
 <style scoped>

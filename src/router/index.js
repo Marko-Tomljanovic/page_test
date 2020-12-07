@@ -19,9 +19,9 @@ const routes = [
     component: () => import(/* webpackChunkName: "education" */ '../views/Education.vue')
   },
   {
-    path: '/features',
-    name: 'Features',
-    component: () => import(/* webpackChunkName: "features" */ '../views/Features.vue')
+    path: '/contactMe',
+    name: 'contactMe',
+    component: () => import(/* webpackChunkName: "contactMe" */ '../views/contactMe.vue')
   },
   {
     path: '/jonson',
@@ -37,5 +37,7 @@ const router = new VueRouter({
 })
 
 export default router
+
+
 
 
