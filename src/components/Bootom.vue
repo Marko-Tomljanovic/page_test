@@ -7,6 +7,11 @@
             <h6>About</h6>
             <p class="text-justify">My profile and resume for presentation.</p>
           </div>
+
+<div class="col-md-6 col-sm-12"><br><br>
+         
+          </div>
+
         </div>
         <hr>
       </div>
@@ -30,6 +35,8 @@
 </footer>
 </div>
 </template>
+
+
 
 <style>
   .site-footer

@@ -97,23 +97,33 @@
                 <div class="col-sm-6 mb-3">
                   <div class="card h-100">
                     <div class="card-body">
-                      <h6 class="d-flex align-items-center mb-3"><i class="material-icons text-info mr-2">assignment</i>Project Status</h6>
-                      <small>Web Design</small>
-                      <div class="progress mb-3" style="height: 9px">
-                        <div class="progress-bar bg-primary" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-                      </div>
-                      <small>Website Markup</small>
-                      <div class="progress mb-3" style="height: 9px">
-                        <div class="progress-bar bg-primary" role="progressbar" style="width: 72%" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"></div>
-                      </div>
-                      <small>One Page</small>
-                      <div class="progress mb-3" style="height: 9px">
-                        <div class="progress-bar bg-primary" role="progressbar" style="width: 89%" aria-valuenow="89" aria-valuemin="0" aria-valuemax="100"></div>
-                      </div>
-                      <small>Mobile Template</small>
-                      <div class="progress mb-3" style="height: 9px">
-                        <div class="progress-bar bg-primary" role="progressbar" style="width: 10%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
-                      </div>
+                      <p><i class="material-icons blueText">skills</i></p>
+                       <div class="row"><br>
+                    <div class="col-sm-5">
+                      <h6 class="mb-0">Languages</h6>
+                    </div>
+                    <div class="col-sm-7 text-secondary" style="padding-left:0px; background-color: pink">
+                      English
+                    </div>
+                  </div>
+                  <hr> <div class="row"><br>
+                    <div class="col-sm-5">
+                      <h6 class="mb-0">Programming</h6>
+                    </div>
+                    <div class="col-sm-7 text-secondary" style="padding-left:0px; background-color: pink">
+                      HTML, Javascript, SQL, CSS, C++
+                    </div>
+                  </div>
+                  <hr> <div class="row"><br>
+                    <div class="col-sm-5">
+                      <h6 class="mb-0">Other</h6>
+                    </div>
+                    <div class="col-sm-7 text-secondary" style="padding-left:0px; background-color: pink">
+                      AutoCad, Fusion 360,Figma, Adobe Premiere Pro and Photoshop&Lightroom
+                    </div>
+                  </div>
+                  
+                  
                       
                     </div>
                   </div>
@@ -121,27 +131,41 @@
                 <div class="col-sm-6 mb-3">
                   <div class="card h-100">
                     <div class="card-body">
-                      <h6 class="d-flex align-items-center mb-3"><i class="material-icons text-info mr-2">assignment</i>Project Status</h6>
-                      <small>Web Design</small>
-                      <div class="progress mb-3" style="height: 9px">
-                        <div class="progress-bar bg-primary" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-                      </div>
-                      <small>Website Markup</small>
-                      <div class="progress mb-3" style="height: 9px">
-                        <div class="progress-bar bg-primary" role="progressbar" style="width: 72%" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"></div>
-                      </div>
-                      <small>One Page</small>
-                      <div class="progress mb-3" style="height: 9px">
-                        <div class="progress-bar bg-primary" role="progressbar" style="width: 89%" aria-valuenow="89" aria-valuemin="0" aria-valuemax="100"></div>
-                      </div>
-                      <small>Mobile Template</small>
-                      <div class="progress mb-3" style="height: 9px">
-                        <div class="progress-bar bg-primary" role="progressbar" style="width: 55%" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
-                      </div>
-                      <small>Backend API</small>
-                      <div class="progress mb-3" style="height: 9px">
-                        <div class="progress-bar bg-primary" role="progressbar" style="width: 66%" aria-valuenow="66" aria-valuemin="0" aria-valuemax="100"></div>
-                      </div>
+                     <p><i class="material-icons blueText">skills</i></p>
+                   <div class="row">
+                    <div class="col-7" style="margin-left:5%;" >
+                      <p class="mb-0"> <i style="font-size:23px; color:  #2677a7; margin-right:17px">+</i>Teamwork</p>
+                    </div>
+                  </div>
+                  
+                   <div class="row">
+                    <div class="col-7" style="margin-left:5%;" >
+                      <p class="mb-0"> <i style="font-size:23px; color:  #2677a7; margin-right:17px">+</i>GitHub</p>
+                    </div>
+                  </div>
+                  
+                   <div class="row">
+                    <div class="col-7" style="margin-left:5%;" >
+                      <p class="mb-0"> <i style="font-size:23px; color:  #2677a7; margin-right:17px">+</i>Problem-solving</p>
+                    </div>
+                    </div>
+
+                    <div class="row">
+                    <div class="col-7" style="margin-left:5%;" >
+                      <p class="mb-0"> <i style="font-size:23px; color:  #2677a7; margin-right:17px">+</i>Willingness to learn</p>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-7" style="margin-left:5%;" >
+                      <p class="mb-0"> <i style="font-size:23px; color:  #2677a7; margin-right:17px">+</i>Organization</p>
+                    </div>
+                  </div>
+                    <div class="row">
+                    <div class="col-7" style="margin-left:5%;" >
+                      <p class="mb-0"> <i style="font-size:23px; color:  #2677a7; margin-right:17px">+</i>Collaboration</p>
+                    </div>
+                  </div>
+
                     </div>
                   </div>
                 </div>
@@ -157,6 +181,13 @@
 
 
 <style scoped>
+.blueText{
+  color: #2677a7; 
+  font-size: 24px;
+  font-weight: 500;
+  text-decoration: underline;
+
+}
  .card {
     transition: box-shadow 0.3s;
   }
