@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d510e495-6f94-4aca-9ff3-10506f49517e/deploy-status)](https://app.netlify.com/sites/marko-tomljanovic/deploys)
+
 # page_test
 
 ## Project setup
