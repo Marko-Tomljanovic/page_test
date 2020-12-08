@@ -1,4 +1,5 @@
 <template>
+<div>
     <div class="container">
         <form action="https://send.pageclip.co/JnUIc6IDgMig0CRvVSnTn25Al7qj0JDz" class="pageclip-form" method="post">
           <label>Name</label>
@@ -25,6 +26,7 @@
           
           <input type="submit" value="Send" class="pageclip-form__submit">
         </form>
+    </div><br>
     </div>
 </template>
 
