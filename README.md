@@ -3,7 +3,6 @@
 # page_test  
 ### Netlify deploy site
 Open web [Netlify site](https://marko-tomljanovic.netlify.app/).
-%md <a href="https://marko-tomljanovic.netlify.app/" target="_blank">Netlify site</a>
 
 ## Project setup
 ```
