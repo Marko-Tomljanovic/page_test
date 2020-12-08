@@ -1,6 +1,6 @@
 <template>
   <div> 
-      <top-header></top-header><br>
+      <top-header></top-header>
       <!-- <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link> -->
       <transition name="fade">

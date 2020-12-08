@@ -194,4 +194,5 @@
 .card:hover {
     box-shadow: 25px 25px 45px 0px rgba(0,0,0,0.5);
   }
+
 </style>
