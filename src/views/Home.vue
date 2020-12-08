@@ -133,35 +133,35 @@
                     <div class="card-body">
                      <p><i class="material-icons blueText">skills</i></p>
                    <div class="row">
-                    <div class="col-7" style="margin-left:5%;" >
-                      <p class="mb-0"> <i style="font-size:23px; color:  #2677a7; margin-right:17px">+</i>Teamwork</p>
+                    <div class="col-9" style="margin-left:5%; background-color:pink" >
+                      <p class="mb-0"> <i style="font-size:23px; color:  #2677a7; margin-right:17px;">+</i>Teamwork</p>
                     </div>
                   </div>
                   
                    <div class="row">
-                    <div class="col-7" style="margin-left:5%;" >
+                    <div class="col-9" style="margin-left:5%;" >
                       <p class="mb-0"> <i style="font-size:23px; color:  #2677a7; margin-right:17px">+</i>GitHub</p>
                     </div>
                   </div>
                   
                    <div class="row">
-                    <div class="col-7" style="margin-left:5%;" >
+                    <div class="col-9" style="margin-left:5%;" >
                       <p class="mb-0"> <i style="font-size:23px; color:  #2677a7; margin-right:17px">+</i>Problem-solving</p>
                     </div>
                     </div>
 
                     <div class="row">
-                    <div class="col-7" style="margin-left:5%;" >
+                    <div class="col-9" style="margin-left:5%;" >
                       <p class="mb-0"> <i style="font-size:23px; color:  #2677a7; margin-right:17px">+</i>Willingness to learn</p>
                     </div>
                   </div>
                   <div class="row">
-                    <div class="col-7" style="margin-left:5%;" >
+                    <div class="col-9" style="margin-left:5%;" >
                       <p class="mb-0"> <i style="font-size:23px; color:  #2677a7; margin-right:17px">+</i>Organization</p>
                     </div>
                   </div>
                     <div class="row">
-                    <div class="col-7" style="margin-left:5%;" >
+                    <div class="col-9" style="margin-left:5%;" >
                       <p class="mb-0"> <i style="font-size:23px; color:  #2677a7; margin-right:17px">+</i>Collaboration</p>
                     </div>
                   </div>
@@ -194,5 +194,4 @@
 .card:hover {
     box-shadow: 25px 25px 45px 0px rgba(0,0,0,0.5);
   }
-
 </style>

@@ -73,7 +73,7 @@ import emailjs from 'emailjs-com';
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;
-  width: 50%;
+  width: 600px;
 }
 
 label {
