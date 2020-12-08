@@ -133,7 +133,7 @@
                     <div class="card-body">
                      <p><i class="material-icons blueText">skills</i></p>
                    <div class="row">
-                    <div class="col-9" style="margin-left:5%; background-color:pink" >
+                    <div class="col-9" style="margin-left:5%;" >
                       <p class="mb-0"> <i style="font-size:23px; color:  #2677a7; margin-right:17px;">+</i>Teamwork</p>
                     </div>
                   </div>

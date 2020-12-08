@@ -70,10 +70,10 @@ import emailjs from 'emailjs-com';
   display: block;
   margin:auto;
   text-align: center;
-  border-radius: 5px;
+  border-radius: 8px;
   background-color: #f2f2f2;
   padding: 20px;
-  width: 600px;
+  width: 65%;
 }
 
 label {
