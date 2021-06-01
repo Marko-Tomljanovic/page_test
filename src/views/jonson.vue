@@ -1,13 +1,9 @@
 <template>
   <b-container>
-  <b-row align-center="center"><br>
-    <job-card v-for="job in jobs" :key="job.id" :name="job.name"></job-card>
-    
-
-    
-    
-  </b-row>
-</b-container>
+    <b-row align-center="center">
+      <job-card v-for="job in jobs" :key="job.id" :name="job.name"></job-card>
+    </b-row>
+  </b-container>
 </template>
 
 <script>
@@ -15,25 +11,23 @@
 import JobCard from "@/components/JobCard.vue";
 
 export default {
-  name: 'jonson',
-  components: {"job-card": JobCard },
-  mounted(){
+  name: "jonson",
+  components: { "job-card": JobCard },
+  mounted() {
     this.fetchData();
   },
-  data(){
+  data() {
     return {
-      jobs: []
-
+      jobs: [],
     };
   },
-  methods:{
-    async fetchData(){
+  methods: {
+    async fetchData() {
       const res = await fetch("jobs.json");
       const val = await res.json();
-      this.jobs = val; 
+      this.jobs = val;
       console.log(val);
-
-    }
-  }
+    },
+  },
 };
 </script>
