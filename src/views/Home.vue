@@ -11,7 +11,7 @@
                     <div class="mt-3">
                       <h4>Marko Tomljanović</h4>
                       <p class="text-secondary mb-1">Front-end developer in the process of learning</p>
-                      <p class="text-muted font-size-sm">Send me Email</p>
+                      <p class="text-muted font-size-sm">Send me an Email</p>
                       <a class="btn" href="mailto:markot@windowslive.com" target="blank_page" style="width:200px; background-color: #2677a7; color:#ffffff">Message</a>
                     </div>
                   </div>
@@ -52,7 +52,7 @@
                       <h6 class="mb-0">Full Name</h6>
                     </div>
                     <div class="col-sm-9 text-secondary">
-                      Marko Tomljlanović
+                      Marko Tomljanović
                     </div>
                   </div>
                   <hr>
