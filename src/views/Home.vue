@@ -70,7 +70,7 @@
                       <h6 class="mb-0">Mobile</h6>
                     </div>
                     <div class="col-sm-9 text-secondary">
-                      (+385) 098 9246244
+                      (+385) 98 9246244
                     </div>
                   </div>
                   <hr>
