@@ -10,9 +10,9 @@
                     <img src="@/assets/Image 2020-10-28 at 19.46.29.jpeg" alt="Admin" class="rounded-circle" width="150">
                     <div class="mt-3">
                       <h4>Marko Tomljanović</h4>
-                      <p class="text-secondary mb-1">Front-end developer in learning process</p>
+                      <p class="text-secondary mb-1">Front-end developer in the process of learning</p>
                       <p class="text-muted font-size-sm">Send me Email</p>
-                      <a class="btn" href="mailto:markot@windowslive.com" target="blank_page" style="width:200px; background-color: #2677a7; color:#ffffff">Massage</a>
+                      <a class="btn" href="mailto:markot@windowslive.com" target="blank_page" style="width:200px; background-color: #2677a7; color:#ffffff">Message</a>
                     </div>
                   </div>
                 </div>
@@ -79,7 +79,7 @@
                       <h6 class="mb-0">Faculty</h6>
                     </div>
                     <div class="col-sm-9 text-secondary">
-                      Faculty of Electrical Engineering, Osijek & Facultiy of Informatics, Pula
+                      Faculty of Electrical Engineering, Osijek & Faculty of Informatics, Pula
                     </div>
                   </div>
                   <hr>
